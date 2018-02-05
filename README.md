@@ -1,17 +1,26 @@
 # 8085-emulator
 Now try all assembly level programming without actually buying the hardware
+
 This Emulator works in CLI(command line mode)
+
 IT works in 3 phases...
+
 PHASE 1:
+
   when single argument(i.e only executable filename is given)
+  
     * Allows user to write an assembly program and then execute it.
     * At end display the contents of registers and memory
 PHASE 2:
+
   when two parameters are given/passed(executable file+ assembly program file)
+  
     * Checks whether addressing is given or not
     * Do all task of phase 1
 PHASE 3:
+
   when three arguments are given/passed(executable file+assembly proram file+ KEYWORD*)       KEYWORD = DEBUG/DEBUGGER/debug/debug....
+  
     * Displays debugger menu and perform operation selected
     * All tasks of phase 2
     
@@ -34,4 +43,5 @@ DEBUGGER MENU:
 
 
 DO LET US COMMENT ABOUT CONS OF IT......
+
 SO THAT WE CAN FIX IT IN LATER VERSIONS.......
