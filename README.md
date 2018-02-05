@@ -3,7 +3,7 @@ Now try all assembly level programming without actually buying the hardware
 
 This Emulator works in CLI(command line mode)
 
-IT works in 3 phases...
+Emulator works in 3 phases...
 
 PHASE 1:
 
